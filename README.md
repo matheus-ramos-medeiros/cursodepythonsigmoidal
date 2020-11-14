@@ -1,18 +1,15 @@
 # projetodatascience
-Meus Projetos de Data Science
+Curso Pynthon do Zero - Sigmoidal
 
 <p align="center">
   <img src="banner.png" >
 </p>
 
-# Matheus Medeiros
-<sub>Estagiário de Orçamento e Desempenho na Silimed Indústria de Implantes</sub>
+# Sigmoidal
+<sub>Feito por Carlos Melo</sub>
+Mestre em Ciências e Tecnologias Espaciais pelo Instituto Tecnológico de Aeronáutica (ITA), Pythonista e Coffeeholic. Piloto Militar da Força Aérea. Atualmente sou data scientist no Centro de Operações Espaciais (Brasília - DF).
 
-Profissional apaixonado por análises de dados, programação e solucionar problemas, sempre buscando o crescimento profissional e pessoal.
-
-Possuo experiência na área de Business Intelligence, Departamento Pessoal e em Orçamento e Desempenho, continuo me especializando em outras áreas como Visualização de Dados, Machine Learning e Data Science.
-
-Cursando Estatística, acostumado a trabalhar em ambiente com boa comunicação, metodologias ágeis e sempre buscando certificações e cursos que possam me agregar mais conhecimento, me tornando um bom profissional. 
+Com forte referente ao mundo 
 
 **Background in:** Python, Machine Learning, Estatística, R.
 
