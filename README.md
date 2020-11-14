@@ -7,6 +7,7 @@ Curso Pynthon do Zero - Sigmoidal
 
 # Sigmoidal
 <sub>Feito por Carlos Melo</sub>
+
 Mestre em Ciências e Tecnologias Espaciais pelo Instituto Tecnológico de Aeronáutica (ITA), Pythonista e Coffeeholic. Piloto Militar da Força Aérea. Atualmente sou data scientist no Centro de Operações Espaciais (Brasília - DF).
 
 A Sigmoidal é uma escola que ensina data science por meois de artigos, vídeo e cursos online de Python, Data Science e Deep Learning.
